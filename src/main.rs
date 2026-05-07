@@ -91,7 +91,7 @@ impl ZellijPlugin for State {
 
     fn update(&mut self, event: Event) -> bool {
         match event {
-            Event::PaneUpdate(manifest) => {
+            Event::PaneUpdate(_manifest) => {
                 // Could use this to track zellij's own pane state
                 // For now, we rely on babel's paint stream for agent state
                 false

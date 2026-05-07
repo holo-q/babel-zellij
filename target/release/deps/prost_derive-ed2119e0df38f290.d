@@ -1,0 +1,11 @@
+/home/nuck/holoq/repo-os/babel-zellij/target/release/deps/prost_derive-ed2119e0df38f290.d: /home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/lib.rs /home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/field/mod.rs /home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/field/group.rs /home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/field/map.rs /home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/field/message.rs /home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/field/oneof.rs /home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/field/scalar.rs
+
+/home/nuck/holoq/repo-os/babel-zellij/target/release/deps/libprost_derive-ed2119e0df38f290.so: /home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/lib.rs /home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/field/mod.rs /home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/field/group.rs /home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/field/map.rs /home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/field/message.rs /home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/field/oneof.rs /home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/field/scalar.rs
+
+/home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/lib.rs:
+/home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/field/mod.rs:
+/home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/field/group.rs:
+/home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/field/map.rs:
+/home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/field/message.rs:
+/home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/field/oneof.rs:
+/home/nuck/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.11.9/src/field/scalar.rs:
