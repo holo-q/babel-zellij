@@ -1,0 +1,18 @@
+[package]
+name = "babel-zellij"
+version = "0.1.0"
+edition = "2021"
+authors = ["nuck"]
+description = "Zellij plugin for babel — live agent session status in your terminal multiplexer"
+license = "GPL-2.0-or-later"
+repository = "https://github.com/holo-q/babel-zellij"
+
+[dependencies]
+zellij-tile = "0.44"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+[profile.release]
+lto = true
+strip = true
+opt-level = "s"
